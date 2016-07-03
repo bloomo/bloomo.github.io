@@ -1,0 +1,115 @@
+.version.jwt_proofreader /* version checker */
+{
+	color: #0000E0;
+	background-color: #8E49C8;
+}
+
+.html
+{
+	background-color: #F6F6F6;
+}
+
+#page
+{
+	z-index: 1;
+	width: 892px;
+	min-height: 782.7999999999997px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 17px 20px 50.20000000000027px 112px;
+}
+
+#pu9145-4
+{
+	width: 0.01px;
+	margin-left: 705px;
+}
+
+#u9145-4
+{
+	z-index: 6;
+	width: 33px;
+	min-height: 16px;
+	margin-right: -10000px;
+}
+
+#u9089-4
+{
+	z-index: 2;
+	width: 56px;
+	min-height: 16px;
+	margin-right: -10000px;
+	left: 52px;
+}
+
+#u9090-4
+{
+	z-index: 10;
+	width: 56px;
+	min-height: 16px;
+	margin-right: -10000px;
+	left: 127px;
+}
+
+#u1516
+{
+	z-index: 25;
+	width: 800px;
+	background-color: transparent;
+	margin-top: 38px;
+	position: relative;
+}
+
+#u1510-4
+{
+	z-index: 14;
+	width: 800px;
+	min-height: 0px;
+	background-color: transparent;
+	padding-top: 26px;
+	padding-bottom: 42px;
+	margin-top: 1px;
+	position: relative;
+}
+
+#u1521
+{
+	z-index: 27;
+	width: 800px;
+	background-color: transparent;
+	position: relative;
+}
+
+#u1515-7
+{
+	z-index: 18;
+	width: 892px;
+	min-height: 0px;
+	background-color: transparent;
+	padding-top: 26px;
+	padding-bottom: 42px;
+	top: -1px;
+	margin-bottom: -1px;
+	position: relative;
+}
+
+#u1510-2,#u1515-2,#u1515-5
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1510-2  span,#u1515-2  span,#u1515-5  span /* line-height set on spans of mixed font sized paras */
+{
+	line-height: 1.2;
+}
+
+body
+{
+	position: relative;
+	min-width: 1024px;
+}
+

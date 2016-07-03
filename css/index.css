@@ -1,0 +1,40 @@
+.version.index /* version checker */
+{
+	color: #0000E9;
+	background-color: #560EAD;
+}
+
+.html
+{
+	background: #EDEDED url("../images/from_above.jpg") no-repeat center center fixed;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 116px;
+	min-height: 116px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 337px 454px 397px;
+}
+
+#u8967
+{
+	z-index: 2;
+	width: 116px;
+	background-color: transparent;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 1024px;
+}
+

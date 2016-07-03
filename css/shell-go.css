@@ -1,0 +1,158 @@
+.version.shell_go /* version checker */
+{
+	color: #0000FC;
+	background-color: #C43EED;
+}
+
+.html
+{
+	background-color: #F6F6F6;
+}
+
+#page
+{
+	z-index: 1;
+	width: 888px;
+	min-height: 783px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 17px 24px 50px 112px;
+}
+
+#pu9145-4
+{
+	width: 0.01px;
+	margin-left: 705px;
+}
+
+#u9145-4
+{
+	z-index: 6;
+	width: 33px;
+	min-height: 16px;
+	margin-right: -10000px;
+}
+
+#u9089-4
+{
+	z-index: 2;
+	width: 56px;
+	min-height: 16px;
+	margin-right: -10000px;
+	left: 52px;
+}
+
+#u9090-4
+{
+	z-index: 10;
+	width: 56px;
+	min-height: 16px;
+	margin-right: -10000px;
+	left: 127px;
+}
+
+#u7388
+{
+	z-index: 30;
+	width: 799px;
+	min-height: 518px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-top: 38px;
+	position: relative;
+}
+
+#u1511-4
+{
+	z-index: 14;
+	width: 800px;
+	min-height: 0px;
+	background-color: transparent;
+	padding-top: 26px;
+	padding-bottom: 42px;
+	position: relative;
+}
+
+#pu2831
+{
+	width: 0.01px;
+}
+
+#u2831
+{
+	z-index: 24;
+	width: 350px;
+	min-height: 200px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2833
+{
+	z-index: 25;
+	width: 350px;
+	min-height: 200px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 450px;
+}
+
+#u1530-4
+{
+	z-index: 18;
+	width: 720px;
+	min-height: 0px;
+	background-color: transparent;
+	padding-top: 26px;
+	padding-bottom: 42px;
+	position: relative;
+}
+
+#u1533
+{
+	z-index: 22;
+	width: 800px;
+	background-color: transparent;
+	top: -1px;
+	margin-bottom: -1px;
+	position: relative;
+}
+
+#u7108-4
+{
+	z-index: 26;
+	width: 755px;
+	background-color: transparent;
+	padding-top: 26px;
+	padding-bottom: 42px;
+	margin-top: 1px;
+	position: relative;
+}
+
+#u1511-2,#u1530-2,#u7108-2
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1511-2  span,#u1530-2  span,#u7108-2  span /* line-height set on spans of mixed font sized paras */
+{
+	line-height: 1.2;
+}
+
+body
+{
+	position: relative;
+	min-width: 1024px;
+}
+

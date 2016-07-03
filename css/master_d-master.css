@@ -1,0 +1,17 @@
+#u9097-6,#u9098-4
+{
+	background-color: transparent;
+	font-style: italic;
+	position: relative;
+}
+
+#u9097-4,#u9098-2
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u9097-4  span,#u9097-4  a,#u9098-2  span /* line-height set on spans of mixed font sized paras */
+{
+	line-height: 1.2;
+}
+

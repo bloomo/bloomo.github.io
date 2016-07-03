@@ -1,0 +1,94 @@
+.version.dorus_mhor /* version checker */
+{
+	color: #00001A;
+	background-color: #92F0F1;
+}
+
+.html
+{
+	background-color: #F6F6F6;
+}
+
+#page
+{
+	z-index: 1;
+	width: 888px;
+	min-height: 675px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 17px 24px 158px 112px;
+}
+
+#pu9145-4
+{
+	width: 0.01px;
+	margin-left: 705px;
+}
+
+#u9145-4
+{
+	z-index: 6;
+	width: 33px;
+	min-height: 16px;
+	margin-right: -10000px;
+}
+
+#u9089-4
+{
+	z-index: 2;
+	width: 56px;
+	min-height: 16px;
+	margin-right: -10000px;
+	left: 52px;
+}
+
+#u9090-4
+{
+	z-index: 10;
+	width: 56px;
+	min-height: 16px;
+	margin-right: -10000px;
+	left: 127px;
+}
+
+#u2656
+{
+	z-index: 21;
+	width: 800px;
+	background-color: transparent;
+	margin-top: 38px;
+	position: relative;
+}
+
+#u2655-7
+{
+	z-index: 14;
+	width: 800px;
+	min-height: 0px;
+	background-color: transparent;
+	padding-top: 26px;
+	padding-bottom: 42px;
+	margin-top: 1px;
+	position: relative;
+}
+
+#u2655-5
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u2655-5  span,#u2655-5  a /* line-height set on spans of mixed font sized paras */
+{
+	line-height: 1.2;
+}
+
+body
+{
+	position: relative;
+	min-width: 1024px;
+}
+

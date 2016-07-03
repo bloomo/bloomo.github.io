@@ -1,0 +1,223 @@
+.version.skittles_updater /* version checker */
+{
+	color: #000001;
+	background-color: #B26426;
+}
+
+.html
+{
+	background-color: #F6F6F6;
+}
+
+#page
+{
+	z-index: 1;
+	width: 888px;
+	min-height: 782.7362830162706px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 17px 24px 50.26371698372941px 112px;
+}
+
+#pu9145-4
+{
+	width: 0.01px;
+	margin-left: 705px;
+}
+
+#u9145-4
+{
+	z-index: 6;
+	width: 33px;
+	min-height: 16px;
+	margin-right: -10000px;
+}
+
+#u9089-4
+{
+	z-index: 2;
+	width: 56px;
+	min-height: 16px;
+	margin-right: -10000px;
+	left: 52px;
+}
+
+#u9090-4
+{
+	z-index: 10;
+	width: 56px;
+	min-height: 16px;
+	margin-right: -10000px;
+	left: 127px;
+}
+
+#u6420
+{
+	z-index: 43;
+	width: 800px;
+	min-height: 449px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-top: 38px;
+	position: relative;
+}
+
+#u1185-4
+{
+	z-index: 14;
+	width: 800px;
+	min-height: 0px;
+	background-color: transparent;
+	padding-top: 26px;
+	padding-bottom: 42px;
+	position: relative;
+}
+
+#u1198
+{
+	z-index: 34;
+	width: 259px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1188
+{
+	z-index: 30;
+	width: 259px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 268px;
+}
+
+#u1193
+{
+	z-index: 32;
+	width: 259px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 535px;
+}
+
+#u2678
+{
+	z-index: 42;
+	width: 720px;
+	min-height: 405px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 37px;
+	margin-top: 48px;
+	position: relative;
+}
+
+#u1186-4
+{
+	z-index: 18;
+	width: 720px;
+	min-height: 0px;
+	background-color: transparent;
+	padding-top: 26px;
+	padding-bottom: 42px;
+	top: -3px;
+	margin-bottom: -3px;
+	position: relative;
+}
+
+#pu1198,#pu1212
+{
+	width: 0.01px;
+	margin-top: -1px;
+}
+
+#u1212
+{
+	z-index: 36;
+	width: 264px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1222
+{
+	z-index: 40;
+	width: 261px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 269px;
+}
+
+#u1217
+{
+	z-index: 38;
+	width: 265px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 535px;
+}
+
+#u1211-4
+{
+	z-index: 22;
+	width: 720px;
+	min-height: 0px;
+	background-color: transparent;
+	padding-top: 26px;
+	padding-bottom: 42px;
+	top: -1px;
+	margin-bottom: -1px;
+	position: relative;
+}
+
+#u6427
+{
+	z-index: 44;
+	width: 800px;
+	min-height: 454px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	top: -1px;
+	margin-bottom: -1px;
+	position: relative;
+}
+
+#u1228-4
+{
+	z-index: 26;
+	width: 720px;
+	min-height: 0px;
+	background-color: transparent;
+	padding-top: 26px;
+	padding-bottom: 42px;
+	position: relative;
+}
+
+#u1185-2,#u1186-2,#u1211-2,#u1228-2
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1185-2  span,#u1186-2  span,#u1211-2  span,#u1228-2  span /* line-height set on spans of mixed font sized paras */
+{
+	line-height: 1.2;
+}
+
+body
+{
+	position: relative;
+	min-width: 1024px;
+}
+

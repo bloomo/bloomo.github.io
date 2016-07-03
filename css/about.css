@@ -1,0 +1,111 @@
+.version.about /* version checker */
+{
+	color: #00001B;
+	background-color: #D2047C;
+}
+
+.html
+{
+	background-color: #F6F6F6;
+}
+
+#page
+{
+	z-index: 1;
+	width: 920px;
+	min-height: 782.8000000000002px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 17px 24px 50.19999999999982px 80px;
+}
+
+#pu9097-6
+{
+	width: 0.01px;
+	margin-left: 815px;
+}
+
+#u9097-6
+{
+	z-index: 2;
+	width: 34px;
+	min-height: 16px;
+	margin-right: -10000px;
+}
+
+#u9098-4
+{
+	z-index: 8;
+	width: 56px;
+	min-height: 16px;
+	margin-right: -10000px;
+	left: 49px;
+}
+
+#pu9079
+{
+	width: 0.01px;
+	margin-left: 1px;
+	margin-top: 29px;
+}
+
+#u9079
+{
+	z-index: 96;
+	width: 290px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u4260-20
+{
+	z-index: 12;
+	width: 557px;
+	min-height: 276px;
+	background-color: transparent;
+	text-align: left;
+	line-height: 1.5;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 305px;
+}
+
+#u9086-64
+{
+	z-index: 32;
+	width: 863px;
+	min-height: 454px;
+	background-color: transparent;
+	line-height: 1.5;
+	margin-top: 53px;
+	position: relative;
+}
+
+#u9086-2
+{
+	text-align: left;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u4260-2,#u4260-5,#u4260-8,#u4260-11,#u4260-13,#u4260-18,#u9086-6,#u9086-8,#u9086-10,#u9086-12,#u9086-14,#u9086-16,#u9086-18,#u9086-20,#u9086-24,#u9086-26,#u9086-29,#u9086-31,#u9086-33,#u9086-35,#u9086-37,#u9086-39,#u9086-41,#u9086-43,#u9086-45,#u9086-47,#u9086-49,#u9086-51,#u9086-53,#u9086-55,#u9086-57,#u9086-59,#u9086-61
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u4260-2  span,#u4260-5  span,#u4260-8  span,#u4260-11  span,#u4260-13  span,#u4260-18  span,#u4260-18  a,#u9086-2  span,#u9086-6  span,#u9086-8  span,#u9086-10  span,#u9086-12  span,#u9086-14  span,#u9086-16  span,#u9086-18  span,#u9086-20  span,#u9086-24  span,#u9086-26  span,#u9086-29  span,#u9086-31  span,#u9086-33  span,#u9086-35  span,#u9086-37  span,#u9086-39  span,#u9086-41  span,#u9086-43  span,#u9086-45  span,#u9086-47  span,#u9086-49  span,#u9086-51  span,#u9086-53  span,#u9086-55  span,#u9086-57  span,#u9086-59  span,#u9086-61  span /* line-height set on spans of mixed font sized paras */
+{
+	line-height: 1.5;
+}
+
+body
+{
+	position: relative;
+	min-width: 1024px;
+}
+
